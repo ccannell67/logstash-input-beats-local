@@ -1,3 +1,6 @@
+## 5.0.8
+  - Update jackson deps to 2.9.4
+
 ## 5.0.7
   - Docs: Deprecate `document_type` option
 
